@@ -9,7 +9,7 @@ Here is my projects and learning record.
 
 ## :chart_with_upwards_trend: Data Anlysis Projects:
 
-- [Improve Business Performance by Analyzing In-game User Behavior](https://github.com/chiseanchang0727/portfolio/blob/main/Data_Analysis_project.md)
+- [Improve Business Performance by Analyzing In-game User Behavior](https://github.com/chiseanchang0727/Projects/blob/main/Improve%20Business%20Performance%20by%20Analyzing%20In-game%20User%20Behavior.md)
 
 ## 👨‍💻Kaggle Competition
 
