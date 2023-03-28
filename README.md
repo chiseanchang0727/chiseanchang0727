@@ -1,6 +1,10 @@
 # Hi! I'm Chi Chang!
 
-Here is my projects and learning record.  
+I admire Iron Man pretty much, creating a J.A.R.V.I.S. is my life goal!
+
+I am working as a Data Analyst and plan to be Data Scientist or AI engineer.
+
+Here is my projects and learning record.
 
 
 ## :chart_with_upwards_trend: Data Anlysis Projects:
