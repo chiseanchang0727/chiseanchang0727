@@ -15,6 +15,10 @@ Here is my projects and learning record.
 
 - [Survival Prediction of Spaceship Titanic](https://github.com/chiseanchang0727/kaggle/tree/main/survival_prediction_of_spaceship_Titanic)
 
+## :factory: Projects
+
+- [Home made applications](https://github.com/chiseanchang0727/Projects/tree/main/Home%20made%20applications)
+
 
 ## Courses
 
