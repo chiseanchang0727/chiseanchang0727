@@ -11,11 +11,11 @@ Here is my projects and learning record.
 
 - [Improve Business Performance by Analyzing In-game User Behavior](https://github.com/chiseanchang0727/Projects/blob/main/Improve%20Business%20Performance%20by%20Analyzing%20In-game%20User%20Behavior.md)
 
-## 👨‍💻Kaggle Competition
+## 👨‍💻Kaggle
 
 - [Survival Prediction of Spaceship Titanic](https://github.com/chiseanchang0727/kaggle/tree/main/survival_prediction_of_spaceship_Titanic)
 
-## :factory: Projects
+## :factory: Side Projects
 
 - [Home made applications](https://github.com/chiseanchang0727/Projects/tree/main/Home%20made%20applications)
 
