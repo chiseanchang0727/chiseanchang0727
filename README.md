@@ -2,7 +2,7 @@
 
 I admire Iron Man pretty much, creating a J.A.R.V.I.S. is my life goal!
 
-I am working as a Data Analyst and plan to be Data Scientist or AI engineer.
+I am working as a Data Scientist.
 
 Here is my projects and learning record.
 
