@@ -14,11 +14,6 @@ Hi there! 👋 I'm a data scientist passionate about leveraging AI and data scie
 - **Frameworks:** LlamaIndex, LangChain.
 - **Databases:** Neo4j, Chroma, Qdrant.
 
-## Current Projects
-- **Pulp Futures Price Forecasting:** Building models to predict Bleached Softwood Kraft Pulp futures prices. 
-- **Knowledge Graphs with Neo4j:** Developing intelligent systems powered by graph-based databases and AI-driven insights.
-- **AI-Powered Chatbots:** Designing conversational AI systems using LangChain and LlamaIndex to solve real-world challenges.
-
 ## Interests
 - 🧠 Exploring generative AI models and large language models (LLMs).
 - 🌍 Applying data science to sustainability and environmental challenges.
