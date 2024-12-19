@@ -1,27 +1,30 @@
-# Hi! I'm Chi Chang!
+# Hi! I'm Sean!
 
-I admire Iron Man pretty much, creating a J.A.R.V.I.S. is my life goal!
+Hi there! 👋 I'm a data scientist passionate about leveraging AI and data science techniques to solve complex problems across diverse domains. 
 
-I am working as a Data Scientist.
+## About Me
+- 🌟 **Passionate Problem Solver:** I enjoy tackling challenges by applying machine learning, deep learning, and data analytics.
+- 🚀 **Innovator:** Constantly exploring new AI methodologies to improve solutions and discover new opportunities.
+- 📊 **Versatile:** Experienced in implementing data-driven solutions across industries.
 
-Here is my projects and learning record.
+## Skills
+- **Programming Languages:** Python, SQL, and more.
+- **AI/ML Techniques:** Deep Learning, Natural Language Processing, and Time Series Forecasting.
+- **Tools & Platforms:** PyTorch, Scikit-Learn, Transformers.
+- **Frameworks:** LlamaIndex, LangChain.
+- **Databases:** Neo4j, Chroma, Qdrant.
+
+## Current Projects
+- **Pulp Futures Price Forecasting:** Building models to predict Bleached Softwood Kraft Pulp futures prices. 
+- **Knowledge Graphs with Neo4j:** Developing intelligent systems powered by graph-based databases and AI-driven insights.
+- **AI-Powered Chatbots:** Designing conversational AI systems using LangChain and LlamaIndex to solve real-world challenges.
+
+## Interests
+- 🧠 Exploring generative AI models and large language models (LLMs).
+- 🌍 Applying data science to sustainability and environmental challenges.
+- 🔍 Advancing search and recommendation systems with cutting-edge techniques.
 
 
-## :chart_with_upwards_trend: Data Anlysis Projects:
+---
 
-- [Improve Business Performance by Analyzing In-game User Behavior](https://github.com/chiseanchang0727/Projects/blob/main/Data%20analysis/Improve%20Business%20Performance%20by%20Analyzing%20In-game%20User%20Behavior.md)
-
-
-
-## 👨‍💻Kaggle
-
-- [Survival Prediction of Spaceship Titanic](https://github.com/chiseanchang0727/kaggle/tree/main/survival_prediction_of_spaceship_Titanic)
-
-## :factory: Side Projects
-
-- [Home made applications](https://github.com/chiseanchang0727/Projects/tree/main/Home%20made%20applications)
-
-
-## Courses
-
-- [Learn ML in 100 days](https://github.com/chiseanchang0727/cupoy_ml_100D)
+Let me know if you'd like any tweaks or additional sections, such as certifications, hobbies, or more about your professional background! 🚀
